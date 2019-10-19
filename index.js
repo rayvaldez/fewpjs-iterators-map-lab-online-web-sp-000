@@ -18,5 +18,5 @@ const titleCased = () => {
       wordArray[0] = wordArray[0].toUpperCase()
       return wordArray.join("")
     }).join(" ")
-  })
+  });
 }
